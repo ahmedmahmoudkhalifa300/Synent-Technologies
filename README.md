@@ -15,6 +15,7 @@
 | Task | Project Name | Folder | Description |
 |---|---|---|---|
 | **Task 3** | **Exploratory Data Analysis of Netflix Catalog** | [`Task3_Netflix_EDA/`](Task3_Netflix_EDA/) | Complete, reproducible EDA on the Netflix catalog (`8,790` records): data quality audit, feature engineering, summary statistics, temporal trend analysis, decadal genre shifts, correlation analysis, and 22 publication-grade visualizations. |
+| **Task 4** | **Netflix Executive BI Dashboard (CSV to Dashboard)** | [`Task 4 CSV to Dashboard/`](Task%204%20CSV%20to%20Dashboard/) | End-to-end transformation of the raw Netflix catalog CSV (`8,790` records) into a 7-page interactive Power BI Executive Dashboard (`Netflix_Executive_Dashboard.pbix`) featuring Power Query ETL, Star/Bridge data modeling, custom DAX KPIs, and custom Netflix Dark UI theme. |
 
 ---
 
@@ -25,3 +26,14 @@
 - **Executive Summary Report:** [`Task3_Netflix_EDA/reports/insights_summary.md`](Task3_Netflix_EDA/reports/insights_summary.md)
 - **Visualizations:** [`Task3_Netflix_EDA/figures/`](Task3_Netflix_EDA/figures/)
 - **Raw & Processed Data:** [`Task3_Netflix_EDA/data/`](Task3_Netflix_EDA/data/)
+
+---
+
+## 📊 Task 4 Highlights ([`Task 4 CSV to Dashboard/`](Task%204%20CSV%20to%20Dashboard/))
+
+- **Full Documentation & Results:** [`Task 4 CSV to Dashboard/README.md`](Task%204%20CSV%20to%20Dashboard/README.md)
+- **Power BI Dashboard (`.pbix`):** [`Task 4 CSV to Dashboard/Netflix_Executive_Dashboard.pbix/`](Task%204%20CSV%20to%20Dashboard/Netflix_Executive_Dashboard.pbix/)
+- **Custom Dark UI Theme:** [`Task 4 CSV to Dashboard/Netflix_Theme.json/`](Task%204%20CSV%20to%20Dashboard/Netflix_Theme.json/)
+- **Dashboard Screenshots:** [`Task 4 CSV to Dashboard/Screenshots/`](Task%204%20CSV%20to%20Dashboard/Screenshots/)
+- **Data Quality Audit Report Script:** [`Task 4 CSV to Dashboard/generate_report.py`](Task%204%20CSV%20to%20Dashboard/generate_report.py)
+- **Dataset:** [`Task 4 CSV to Dashboard/Dataset.csv/`](Task%204%20CSV%20to%20Dashboard/Dataset.csv/)
